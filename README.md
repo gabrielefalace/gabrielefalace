@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here I store a bunch of coding projects and playgrounds.
+
 <!--
 **gabrielefalace/gabrielefalace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
